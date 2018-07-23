@@ -1,0 +1,26 @@
+{
+    "dependencies": {
+        "lib.nordic.nrf52_ble": "r2.1.1",
+        "sys.zerynth.armgcc": "r2.1.1",
+        "vhal.zerynth.armcmx_nrf52": "r2.1.1"
+    },
+    "description": "Add support for nRF52840 Development Kit",
+    "fullname": "board.zerynth.nrf52840_preview_dk",
+    "git_pointer": "zerynth://zerynth-boards/redbear_nano2",
+    "info": {
+        "board": "nRF52840 Development Kit",
+        "chip_manufacturer": "Nordic",
+        "device": "nrf52840",
+        "family_type": "ARM Cortex M4"
+    },
+    "keywords": [
+        "Nordic",
+        "ble",
+        "nordic",
+        "nfc"
+    ],
+    "repo": "official",
+    "title": "nRF52840 Development Kit Support Package",
+    "version": "r2.1.1",
+    "whatsnew": " "
+}
